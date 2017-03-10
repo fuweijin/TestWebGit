@@ -9,6 +9,7 @@
 <body>
 
 <h3>Hello Git Test!</h3>
+<p>Test another commit.</p>
 
 </body>
 </html>
